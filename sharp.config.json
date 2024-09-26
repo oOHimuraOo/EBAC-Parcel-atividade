@@ -2,13 +2,19 @@
     "png":{
         "quality": 75
     },
-    "jpg":{
+    "jpeg":{
         "quality": 75
     },
-    "svg":{
+    "gif":{
         "quality": 75
     },
-    "webp":{
+    "tiff":{
+        "quality": 75
+    },
+    "avif":{
+        "quality": 75
+    },
+    "heif":{
         "quality": 75
     }
 }

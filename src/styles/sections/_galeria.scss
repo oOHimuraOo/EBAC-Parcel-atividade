@@ -1,0 +1,10 @@
+.galeria{
+    opacity: .97;
+    &__carousel {
+        img {
+            max-height: 60vh;
+            height: 100%;
+            overflow: hidden;
+        }
+    }
+}
